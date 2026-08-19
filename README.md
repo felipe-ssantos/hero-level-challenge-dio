@@ -33,13 +33,11 @@ Classificar heróis de acordo com a quantidade de XP (experiência) que eles pos
 node heroi.js
 ```
 
-## Exemplo de saída
+## Exemplo de saída 
 
-```
-O heroi de nome Fulano está no nível de Ferro
-O heroi de nome Ciclano está no nível de Bronze
-O heroi de nome Beltrano está no nível de Prata
-```
+<div align="center">
+  <img src="img/printscreen-saida.png" alt="Log de saida do desafio" />
+</div>
 
 ## Observação
 
